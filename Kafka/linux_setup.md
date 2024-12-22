@@ -1,4 +1,4 @@
-## Linux setup running for running kafka inside docker
+## Linux setup for running kafka inside docker
 
 ### Install docker
 
